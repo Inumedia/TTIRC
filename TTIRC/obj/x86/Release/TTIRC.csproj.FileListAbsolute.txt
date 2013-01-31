@@ -1,0 +1,17 @@
+Z:\Projects\TTIRC\TTIRC\bin\Release\TTIRC.exe.config
+Z:\Projects\TTIRC\TTIRC\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+Z:\Projects\TTIRC\TTIRC\bin\Release\ExternalInterfaceProxy.dll
+Z:\Projects\TTIRC\TTIRC\bin\Release\Interop.ShockwaveFlashObjects.dll
+Z:\Projects\TTIRC\TTIRC\bin\Release\TTAPI.dll
+Z:\Projects\TTIRC\TTIRC\bin\Release\websocket-sharp.dll
+Z:\Projects\TTIRC\TTIRC\bin\Release\TTIRC.exe
+Z:\Projects\TTIRC\TTIRC\bin\Release\TTIRC.pdb
+Z:\Projects\TTIRC\TTIRC\bin\Release\TTAPI.pdb
+Z:\Projects\TTIRC\TTIRC\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\Projects\TTIRC\TTIRC\obj\x86\Release\TTIRC.TurnTable.resources
+Z:\Projects\TTIRC\TTIRC\obj\x86\Release\GenerateResource.read.1.tlog
+Z:\Projects\TTIRC\TTIRC\obj\x86\Release\GenerateResource.write.1.tlog
+Z:\Projects\TTIRC\TTIRC\obj\x86\Release\TTIRC.exe
+Z:\Projects\TTIRC\TTIRC\obj\x86\Release\TTIRC.pdb
+Z:\Projects\TTIRC\TTIRC\bin\Release\Utilities.dll
+Z:\Projects\TTIRC\TTIRC\bin\Release\websocket-sharp.pdb
